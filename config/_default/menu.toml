@@ -11,6 +11,7 @@
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/Akumatic"
+weight = 1
 
 [social.params]
 icon = "brand-github"
@@ -19,6 +20,16 @@ icon = "brand-github"
 identifier = "reddit"
 name = "Reddit"
 url = "https://www.reddit.com/user/aku-matic/"
+weight = 2
 
 [social.params]
 icon = "brand-reddit"
+
+[[social]]
+identifier = "mail"
+name = "Mail"
+url = "mailto:contact@akumatic.eu"
+weight = 3
+
+[social.params]
+icon = "mail"
