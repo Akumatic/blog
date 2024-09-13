@@ -2,7 +2,7 @@
 title: "Neuer Router: ThinkCentre Tiny M720q mit PCIe NIC"
 date: 2023-03-25
 description: |
-    Bestimmte Modelle der ThinkCentre Tiny Serie können eine PCIe-Netzwerkkarte aufnehmen und eignen sich daher als vollwertiger Router mit mehreren Netzwerkanschlüssen. In diesem Beitrag sehen Sie die Schritte des Umbaus, sowie was neben dem Mini-PC und der Netzwerkkarte noch benötigt wird.
+    Bestimmte Modelle der ThinkCentre Tiny Serie können eine PCIe-Netzwerkkarte aufnehmen und eignen sich daher als vollwertiger Router mit mehreren Netzwerkanschlüssen. In diesem Beitrag zeige ich die Schritte des Umbaus und was dafür alles benötigt wird.
 categories:
     - homelab
     - hardware
