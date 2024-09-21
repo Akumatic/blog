@@ -10,5 +10,7 @@ defaultContentLanguage = "en"
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
 
+enableEmoji = true
+
 [pagination]
 pagerSize = 5
