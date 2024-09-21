@@ -87,7 +87,7 @@ Locally index all files created for the first commit, create it, add the previou
 git add *
 git commit -m "Initial Setup"
 git branch -M main
-git remote add origin <Ziel>
+git remote add origin <destination>
 git push -u origin main
 ```
 
