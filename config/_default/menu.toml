@@ -8,10 +8,19 @@
 #newtab = true
 
 [[social]]
+identifier = "gitea"
+name = "Gitea"
+url = "https://git.akumatic.eu/Akumatic"
+weight = 1
+
+[social.params]
+icon = "brand-git"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/Akumatic"
-weight = 1
+weight = 2
 
 [social.params]
 icon = "brand-github"
@@ -20,7 +29,7 @@ icon = "brand-github"
 identifier = "reddit"
 name = "Reddit"
 url = "https://www.reddit.com/user/aku-matic/"
-weight = 2
+weight = 98
 
 [social.params]
 icon = "brand-reddit"
@@ -29,7 +38,7 @@ icon = "brand-reddit"
 identifier = "mail"
 name = "Mail"
 url = "mailto:contact@akumatic.eu"
-weight = 3
+weight = 99
 
 [social.params]
 icon = "mail"
